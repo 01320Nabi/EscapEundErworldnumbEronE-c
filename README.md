@@ -1,6 +1,6 @@
 # EscapEundErworldnumbEronE-c
 
-Implementation of [EscapEundErworldnumbEronE](https://github.com/D1N0-pixel/EscapEundErworldnumbEronE)
+Implementation of [EscapEundErworldnumbEronE](https://github.com/D1N0-pixel/EscapEundErworldnumbEronE) in C
 
 ## How to compile
 
